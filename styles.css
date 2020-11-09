@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+}
+
+header{
+    color: navy;
+    font-size: xx-large;
+    border: solid darkorange;
+    font-weight: bolder;
+}
+
+header:hover{
+    color: darkorange;
+    border: dotted navy;
+}
+
+button{
+    color: darkorange;
+    background-color: navy;
+    font-size: larger;
+    margin-top: 2%;
+    height: 50px;
+}
+
+button:hover{
+    background-color: darkorange;
+    color: navy;
+}
+
+.container{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+li.istrue{
+    color: red;
+}
+
+li.isfalse{
+    color: darkgreen;
+}
